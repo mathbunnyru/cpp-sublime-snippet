@@ -1,8 +1,8 @@
 <snippet>
-	<description>Template</description>
-	<content><![CDATA[
+  <description>Template</description>
+  <content><![CDATA[
 template<typename ${1:T}>
 ]]></content>
-	<tabTrigger>tem</tabTrigger>
-	<scope>source.c++, source.objc++</scope>
+  <tabTrigger>tem</tabTrigger>
+  <scope>source.c++, source.objc++</scope>
 </snippet>

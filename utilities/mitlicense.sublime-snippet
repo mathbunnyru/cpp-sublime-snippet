@@ -1,6 +1,6 @@
 <snippet>
-	<description>MIT License</description>
-	<content><![CDATA[
+  <description>MIT License</description>
+  <content><![CDATA[
 // The MIT License (MIT)
 
 // Copyright (c) ${1:YEAR} ${2:NAME}
@@ -25,5 +25,5 @@
 
 ${0:/* code */}
 ]]></content>
-	<tabTrigger>mitl</tabTrigger>
+  <tabTrigger>mitl</tabTrigger>
 </snippet>
