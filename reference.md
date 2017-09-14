@@ -227,6 +227,12 @@ $0
 #endif
 ```
 
+**Trigger**: cond
+
+```cpp
+$1 ? $2 : $3;
+```
+
 ## Classes
 
 **Trigger**: struct_
