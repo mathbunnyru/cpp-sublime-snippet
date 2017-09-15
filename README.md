@@ -4,7 +4,7 @@ This package adds some useful snippets for Sublime Text for C++11. It matches th
 
 ```cpp
 if (/* condition */) {
-    /* code */
+  /* code */
 }
 ```
 
