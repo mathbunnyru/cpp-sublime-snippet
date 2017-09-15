@@ -23,7 +23,7 @@ The easiest way to install the C++ Snippets is by using [Package Control](https:
 You can manually install the package by using Git.
 
 - Navigate to Sublime’s Packages directory
-- Run `git clone https://github.com/Rapptz/cpp-sublime-snippet.git`
+- Run `git clone https://github.com/mathbunnyru/cpp-sublime-snippet.git`
 
 To find out where the Packages directory is, you can go to _Preferences_ and _Browse packages…_. This will open the directory in your file explorer.
 
@@ -31,14 +31,14 @@ To find out where the Packages directory is, you can go to _Preferences_ and _Br
 
 If you don’t have Package Control or Git, you can also download the package. However you really should be using Package Control, because the process is simpler.
 
-- Open [https://github.com/Rapptz/cpp-sublime-snippet](https://github.com/Rapptz/cpp-sublime-snippet) in your browser
+- Open [https://github.com/mathbunnyru/cpp-sublime-snippet](https://github.com/mathbunnyru/cpp-sublime-snippet) in your browser
 - On the right hand side there is a _Download ZIP_ button – click it
 - Go to _Preferences_ and _Browse packages…_ which opens the Packages directory
 - Extract the archive inside the Packages directory
 
 ## Documentation
 
-Documentation can be found in the [reference.md](https://github.com/Rapptz/cpp-sublime-snippet/blob/master/reference.md) file.
+Documentation can be found in the [reference.md](https://github.com/mathbunnyru/cpp-sublime-snippet/blob/master/reference.md) file.
 
 ## License
 
