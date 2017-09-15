@@ -13,4 +13,4 @@ Tools > Packages > C++ Snippets
 
 As always, if you would like to add a snippet feel free to send me a pull
 request on GitHub. Issues, comments, etc. are welcome too:
-https://github.com/Rapptz/cpp-sublime-snippet
+https://github.com/mathbunnyru/cpp-sublime-snippet
