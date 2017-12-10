@@ -41,7 +41,7 @@ while ($1) {
 **Trigger**: for_
 
 ```cpp
-for (unsigned $2 = 0; $2 < $1; ${3:++$2}) {
+for (size_t $2 = 0; $2 < $1; ${3:++$2}) {
     $0
 }
 ```
@@ -49,7 +49,7 @@ for (unsigned $2 = 0; $2 < $1; ${3:++$2}) {
 **Trigger**: forrange
 
 ```cpp
-for (auto&& $1 : $2) {
+for (const auto& $1 : $2) {
     $0
 }
 ```
