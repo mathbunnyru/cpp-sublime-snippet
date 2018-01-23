@@ -1,4 +1,4 @@
-<snippet>
+<!-- <snippet>
   <description>Templated Struct</description>
   <content><![CDATA[
 template<typename ${1:T}>
@@ -9,3 +9,4 @@ struct ${2:${TM_FILENAME/(.+)\..+|.*/\u$1/:name}} {
   <tabTrigger>structtemp</tabTrigger>
   <scope>source.c++, source.objc++</scope>
 </snippet>
+ -->

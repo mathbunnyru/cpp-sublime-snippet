@@ -3,7 +3,7 @@
   <content><![CDATA[
 template<typename ${1:T}>
 ${2:int} ${3:function_name}(${4:/* args */}) {
-  $0
+  ${0:/* code */}
 }
 ]]></content>
   <tabTrigger>tempfunc</tabTrigger>

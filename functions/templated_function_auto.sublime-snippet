@@ -6,6 +6,6 @@ auto ${2:function_name}(${3:/* args */}) -> decltype(${4:/* expression */}) {
   ${0:/* code */}
 }
 ]]></content>
-  <tabTrigger>tempfunca</tabTrigger>
+  <tabTrigger>tempafunc</tabTrigger>
   <scope>source.c++, source.objc++</scope>
 </snippet>

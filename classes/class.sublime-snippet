@@ -3,7 +3,7 @@
   <content><![CDATA[
 class ${1:${TM_FILENAME/(.+)\..+|.*/\u$1/:name}} {
 public:
-  ${1/(\w+).*/$1/}(${2:/* args */}) : ${3:} {
+  ${1/(\w+).*/$1/}(${2:/* args */}) : ${3:field_(field)} {
   }
 private:
   ${4:/* data */}
